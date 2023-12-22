@@ -1,0 +1,16 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/camiones-de-v-w/[root]/index.html
+$dokka.location:/ColorsKt///PointingToDeclaration/camiones-de-v-w/[root]/-colors-kt/index.html
+$dokka.location:/FuncionsEntradaKt///PointingToDeclaration/camiones-de-v-w/[root]/-funcions-entrada-kt/index.html
+$dokka.location:/FuncionsEntradaKt/getScan/#/PointingToDeclaration/camiones-de-v-w/[root]/-funcions-entrada-kt/get-scan.html
+$dokka.location:/FuncionsEntradaKt/llegirDouble/#/PointingToDeclaration/camiones-de-v-w/[root]/-funcions-entrada-kt/llegir-double.html
+$dokka.location:/FuncionsEntradaKt/llegirInt/#/PointingToDeclaration/camiones-de-v-w/[root]/-funcions-entrada-kt/llegir-int.html
+$dokka.location:/FuncionsEntradaKt/llegirLong/#/PointingToDeclaration/camiones-de-v-w/[root]/-funcions-entrada-kt/llegir-long.html
+$dokka.location:/FuncionsKt///PointingToDeclaration/camiones-de-v-w/[root]/-funcions-kt/index.html
+$dokka.location:/FuncionsKt/calcularPreuActual/#kotlin.Double#kotlin.Int#kotlin.Int/PointingToDeclaration/camiones-de-v-w/[root]/-funcions-kt/calcular-preu-actual.html
+$dokka.location:/FuncionsKt/calcularPreuBase/#/PointingToDeclaration/camiones-de-v-w/[root]/-funcions-kt/calcular-preu-base.html
+$dokka.location:/MainKt///PointingToDeclaration/camiones-de-v-w/[root]/-main-kt/index.html
+$dokka.location:/MainKt/main/#/PointingToDeclaration/camiones-de-v-w/[root]/-main-kt/main.html
+
+
