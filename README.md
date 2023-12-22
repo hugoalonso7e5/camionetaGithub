@@ -7,7 +7,12 @@ i quants més km hagis fet, menys encara.
 ## Funcions:
 ### Script Main
 En aquest script nomes esta l'execució en si mateixa del programa. Dins aquesta funcio es os es demanen les demes.
+### Imatges codi Main.kt
 ![image](https://github.com/hugoalonso7e5/camionetaGithub/assets/93970199/9a53218d-7765-4be9-a821-cbdbb36a8c0a)
+
+![image](https://github.com/hugoalonso7e5/camionetaGithub/assets/93970199/f3b4076a-321a-4f4b-806f-1c0273e059dc)
+
 
 ### Colors
 Com el seu propi nom indica, el que hi ha a aquest script son els diferents colors (els utilitzi o no).
+![image](https://github.com/hugoalonso7e5/camionetaGithub/assets/93970199/80d45dfc-b044-4f4f-ad7e-dcbd3442901a)
