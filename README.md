@@ -17,5 +17,6 @@ En aquest script nomes esta l'execució en si mateixa del programa. Dins aquesta
 Com el seu propi nom indica, el que hi ha a aquest script son els diferents colors (els utilitzi o no).
 ### Imatges codi Colors.kt
 ![image](https://github.com/hugoalonso7e5/camionetaGithub/assets/93970199/80d45dfc-b044-4f4f-ad7e-dcbd3442901a)
-![image](https://github.com/hugoalonso7e5/camionetaGithub/assets/93970199/649a1a18-ac71-4009-b1cb-15a7430740b0)
+![image](https://github.com/hugoalonso7e5/camionetaGithub/assets/93970199/09895f86-3fb6-44c9-893d-8a6b4481331b)
+
 
