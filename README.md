@@ -7,3 +7,4 @@ i quants més km hagis fet, menys encara.
 ## Funcions:
 ### Script Main
 En aquest script nomes esta l'execució en si mateixa del programa. Dins aquesta funcio es os es demanen les demes.
+![image](https://github.com/hugoalonso7e5/camionetaGithub/assets/93970199/9a53218d-7765-4be9-a821-cbdbb36a8c0a)
