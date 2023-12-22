@@ -19,4 +19,9 @@ Com el seu propi nom indica, el que hi ha a aquest script son els diferents colo
 ![image](https://github.com/hugoalonso7e5/camionetaGithub/assets/93970199/80d45dfc-b044-4f4f-ad7e-dcbd3442901a)
 ![image](https://github.com/hugoalonso7e5/camionetaGithub/assets/93970199/09895f86-3fb6-44c9-893d-8a6b4481331b)
 
-
+### Funcions
+Hi han dos scritps de funcions: Funcions d'Entrada i Funcions Utilizables.
+Dins de les funcions d'entrada es troben algunes com llegirInt(), llegirDouble()...
+![image](https://github.com/hugoalonso7e5/camionetaGithub/assets/93970199/cae42cca-a1c9-4648-b851-346e3caf7359)
+Mentre que a les funcions utilizables es troben les que son menys reutilitzables:
+![image](https://github.com/hugoalonso7e5/camionetaGithub/assets/93970199/b3e4fb5f-3f99-4aba-a0c0-95b6e6483315)
