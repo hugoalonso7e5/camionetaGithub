@@ -29,7 +29,7 @@ fun main() {
 
     println("Vale entiendo\n")
 
-    println("${YELLOW}Tu furgoneta vale la friolera de $RESET$YELLOW_BOLD_BRIGHT${BigDecimal(precioFinal).setScale(2, RoundingMode.FLOOR)}$RESET")
+    println("${YELLOW}Tu furgoneta vale $RESET$YELLOW_BOLD_BRIGHT${BigDecimal(precioFinal).setScale(2, RoundingMode.FLOOR)}$RESET")
     println("Aqui tienes tu furgoneta pintada\n" +
             RED_BOLD +
             " ================\\\n" +
